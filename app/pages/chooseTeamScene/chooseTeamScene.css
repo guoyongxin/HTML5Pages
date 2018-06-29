@@ -1,0 +1,19 @@
+
+#chooseTeamSceneBackground {
+    background-image: url('../../assets/img/orange_background.png');
+}
+
+h1 {
+    color:#ffffff;
+}
+
+.sceneBackground {
+    z-index: -1;
+}
+
+#teams {
+    position: absolute;
+    width: 41.33%;
+    left: 29.3%;
+    top: 70.6%;
+}

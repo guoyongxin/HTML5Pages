@@ -1,0 +1,19 @@
+#firstSceneBackground {
+    background-image: url('../../assets/img/orange_background.png');
+}
+
+#logo {
+    position: absolute;
+    width: 61%;
+    left: 19.6%;
+    top: 3%;
+    opacity: 0;
+}
+
+#startTest {
+    position: absolute;
+    width: 41.33%;
+    left: 29.3%;
+    top: 90.6%;
+    opacity: 0;
+}
